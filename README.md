@@ -4,12 +4,23 @@ This project is responding to the hypothesis
 
 Is it still worth it to open a Marijuana business in 2023 ?
 
-I have used the Data from the Cannabis Control Commission of Massachusetts to make this study.
+I have used the Data from the Cannabis Control Commission of Massachusetts to make this study (from 2018 to 2023).
 
-And also some other study about Cannabis :
+And also other study about Cannabis (Social, and Business oriented) :
 You can found all the link of the Website used in the World document named RESSOURCES 
 
 I have also attached a Word document CANNA_PRESENTATION with all the percentage and explaining of the Tableau dashboard I have made.
+
+You also have the presentation Power point here below : 
+https://docs.google.com/presentation/d/1OkkrGHSmCaIoSzuYYoHZE2oGYKsOb1hdN2Ta6Gb3Tug/edit?usp=sharing
+
+What can you find in this repositery?
+
+- Jupyter Notebook( how i wrangled this Data + predictions)
+- Power point (presentation)
+- Dashboard (Tableau format )
+- Documents Word ( With all explenation about the Data + ressources )
+- Files from Cannabis Control Commission, up to date, (11/11/2023)
 
 How I can use this study ?
 
