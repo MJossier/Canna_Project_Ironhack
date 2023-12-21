@@ -6,6 +6,12 @@ Is it still worth it to open a Marijuana business in 2023 ?
 
 I have used the Data from the Cannabis Control Commission of Massachusetts to make this study (from 2018 to 2023).
 
+What I have used to perform this study ?
+
+- Python ( Data_ cleaning and Arima - Model)
+- Tableau(Parameter, filters and more )
+- statistique 
+
 And also other study about Cannabis (Social, and Business oriented) :
 You can found all the link of the Website used in the World document named RESSOURCES 
 
